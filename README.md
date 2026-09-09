@@ -242,4 +242,4 @@ This repository serves as the official landing page for Shift 2 Unleashed. The s
 **Get the most recent version of Shift 2 Unleashed today!**
 
 ---
-**Last updated:** 2026-09-08 22:28:57 UTC
+**Last updated:** 2026-09-09 01:07:01 UTC
